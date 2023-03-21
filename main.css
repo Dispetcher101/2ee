@@ -133,7 +133,7 @@ select {
   }
   input {
     outline: none;
-  }
+}
 button:hover{
     background-color: #f6980c;
     box-shadow:  0 16px 36 px rgba(246 152 12 / 20%);
