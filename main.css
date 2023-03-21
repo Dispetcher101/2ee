@@ -134,3 +134,39 @@ select {
   input {
     outline: none;
   }
+button:hover{
+    background-color: #f6980c;
+    box-shadow:  0 16px 36 px rgba(246 152 12 / 20%);
+    transition: background-color 0.3s;
+    transition: ease-in 0.3s;
+}
+footer{
+    padding: 90px 20px 90px 20px;
+    font-weight: 600px;
+}
+.footer__container{
+    display: flex;
+    justify-content: center;
+    
+}
+.footer__copyright{
+    margin-top: 40px;
+    opacity: 0.5;
+    text-align: center;
+    
+}
+.footer__group{
+    margin-right: 80px;
+}
+h3{
+    font-size: 16px;
+    opacity: 0.7;
+    margin-bottom: 30pxx;
+
+}
+.footer__links{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+
+}
